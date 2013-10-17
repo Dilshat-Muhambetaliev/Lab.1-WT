@@ -20,14 +20,11 @@
 <body>
     <form id="form1" runat="server">
  <div id="menu_it">
-<a href="WebForm1.aspx">Домашняя</a>
- <a href="WebForm2.aspx">Страница управления</a>
- <a href="#">Обновить</a>
+    <div class="parent">
+    <div class="child">
+    <div style="height: 600px"><div style="text-align:center">
+<a href="WebForm1.aspx">Домашняя</a><a href="WebForm2.aspx">Страница управления</a> <a href="#">Обновить</a></div></div></div></div><
  </div>
-<div id="left"></div>
-<div id="right"></div>
-<div id="top"></div>
-<div id="bottom"></div>
  </form>
  <div id="img">
 

@@ -10,23 +10,13 @@
 </head>
 <body>
     <form id="form1" runat="server">
-  <div id="menu_it">
-
-<a href="WebForm1.aspx">Домашняя</a>
- <a href="WebForm2.aspx">Страница управления</a>
- <a href="#">Обновить</a>
-
-
-
-</div>
-    <div id="left"></div>
-    <div id="right"></div>
-    <div id="top"></div>
-    <div id="bottom"></div>
-    </form>
-       <td align="center">
-        </p>
-        </td>
+    <div id="menu_it">
+    <div class="parent">
+    <div class="child">
+    <div style="height: 600px"><div style="text-align:center">
+<a href="WebForm1.aspx">Домашняя</a><a href="WebForm2.aspx">Страница управления</a><a href="#">Обновить</a>
+  <center>
+        
     <div id="box1">
        <br />
        <br /> 
@@ -40,6 +30,15 @@
   <option>Фото 2</option>
 </select
    <p><input type="submit" value="Удалить"></p>
+   </center>
+ </div>
+ </div>
+ </div>
+
+</div>
+
+    </form>
+     
   </form>
 </body>
 </html>
