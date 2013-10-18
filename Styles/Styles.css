@@ -1,24 +1,24 @@
 ﻿body { 
-    margin: 0 30% ; /* Убираем отступы */
+    margin: 0 30% ;
     
    }
    .parent 
    {
 
-    background: #0066CC; /* Цвет фона */
-    padding: 10px; /* Поля вокруг текста */
+    background: #0066CC; 
+    padding: 10px;
     
    } 
    .child {
-    border: 5px solid red; /* Параметры рамки */
-    padding: 10px; /* Поля вокруг текста */
-    margin: 10px; /* Отступы вокруг */
+    border: 5px solid red; 
+    padding: 10px; 
+    margin: 10px; 
     
    }
 
 
 
-#menu_it a {                    /*каркас*/
+#menu_it a {                   
   
  text-decoration: none; 
 
@@ -28,11 +28,11 @@
  border-radius:5px;
   
 display:inline-block;
- padding: 8px 18px;             /* Поля вокруг текста */
+ padding: 8px 18px;            
 
 }
 
-#menu_it a:hover {              /*наведение курсора*/
+#menu_it a:hover {              
  color: #333;	
  background-color: red;
  text-decoration: none;
