@@ -1,0 +1,14 @@
+C:\Users\Марат\Desktop\хус\StudentsDB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Марат\Desktop\хус\StudentsDB\obj\Debug\StudentsDB.dll
+C:\Users\Марат\Desktop\хус\StudentsDB\bin\StudentsDB.dll
+C:\Users\Марат\Desktop\хус\StudentsDB\bin\StudentsDB.pdb
+C:\Users\Марат\Desktop\хус\StudentsDB\bin\MongoDB.Bson.xml
+C:\Users\Марат\Desktop\хус\StudentsDB\bin\MongoDB.Driver.xml
+C:\Users\Марат\Desktop\хус\StudentsDB\obj\Debug\StudentsDB.pdb
+C:\Users\Марат\Desktop\хус\GMMD\bin\StudentsDB.dll
+C:\Users\Марат\Desktop\хус\GMMD\bin\StudentsDB.pdb
+C:\Users\Марат\Desktop\хус\GMMD\bin\MongoDB.Bson.xml
+C:\Users\Марат\Desktop\хус\GMMD\bin\MongoDB.Driver.xml
+C:\Users\Марат\Desktop\хус\GMMD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Марат\Desktop\хус\GMMD\obj\Debug\StudentsDB.dll
+C:\Users\Марат\Desktop\хус\GMMD\obj\Debug\StudentsDB.pdb

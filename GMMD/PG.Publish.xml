@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\Марат\Dropbox\Приложения\Azure\GMMD1" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Профиль1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="PG.csproj" publishTime="12/26/2013 14:02:11" />
+    <file relUrl="Styles.css" publishTime="12/26/2013 14:02:01" />
+    <file relUrl="Web.Debug.config" publishTime="11/22/2013 08:32:10" />
+    <file relUrl="bin/MongoDB.Driver.dll" publishTime="11/22/2013 10:17:02" />
+    <file relUrl="packages.config" publishTime="11/22/2013 10:17:04" />
+    <file relUrl="bin/MongoDB.Driver.xml" publishTime="11/22/2013 10:17:02" />
+    <file relUrl="bin/StudentsDB.pdb" publishTime="12/26/2013 14:02:11" />
+    <file relUrl="Default.aspx.cs" publishTime="12/26/2013 12:49:00" />
+    <file relUrl="PG.csproj.user" publishTime="12/26/2013 14:02:11" />
+    <file relUrl="Web.config" publishTime="12/26/2013 13:49:00" />
+    <file relUrl="bin/StudentsDB.dll" publishTime="12/26/2013 14:02:11" />
+    <file relUrl="Default.aspx.designer.cs" publishTime="12/26/2013 12:46:23" />
+    <file relUrl="DataAccess.cs" publishTime="12/26/2013 12:44:30" />
+    <file relUrl="Properties/AssemblyInfo.cs" publishTime="11/22/2013 10:48:24" />
+    <file relUrl="Kino.cs" publishTime="12/26/2013 12:42:54" />
+    <file relUrl="bin/MongoDB.Bson.dll" publishTime="11/22/2013 10:17:02" />
+    <file relUrl="Web.Release.config" publishTime="11/22/2013 08:32:10" />
+    <file relUrl="bin/MongoDB.Bson.xml" publishTime="11/22/2013 10:17:02" />
+    <file relUrl="Default.aspx" publishTime="12/26/2013 14:02:11" />
+  </publishProfile>
+</publishData>
