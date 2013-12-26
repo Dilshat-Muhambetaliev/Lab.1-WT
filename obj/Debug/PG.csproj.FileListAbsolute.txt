@@ -12,3 +12,10 @@ C:\Users\Марат\Desktop\хус\GMMD\bin\MongoDB.Driver.xml
 C:\Users\Марат\Desktop\хус\GMMD\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Марат\Desktop\хус\GMMD\obj\Debug\StudentsDB.dll
 C:\Users\Марат\Desktop\хус\GMMD\obj\Debug\StudentsDB.pdb
+C:\Users\Марат\Desktop\GMMD\bin\StudentsDB.dll
+C:\Users\Марат\Desktop\GMMD\bin\StudentsDB.pdb
+C:\Users\Марат\Desktop\GMMD\bin\MongoDB.Bson.xml
+C:\Users\Марат\Desktop\GMMD\bin\MongoDB.Driver.xml
+C:\Users\Марат\Desktop\GMMD\obj\Debug\PG.csprojResolveAssemblyReference.cache
+C:\Users\Марат\Desktop\GMMD\obj\Debug\StudentsDB.dll
+C:\Users\Марат\Desktop\GMMD\obj\Debug\StudentsDB.pdb

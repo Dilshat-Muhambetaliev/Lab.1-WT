@@ -1,4 +1,0 @@
-c:\users\марат\documents\visual studio 2010\Projects\lr1\lr1\bin\lr1.dll
-c:\users\марат\documents\visual studio 2010\Projects\lr1\lr1\bin\lr1.pdb
-c:\users\марат\documents\visual studio 2010\Projects\lr1\lr1\obj\Debug\lr1.dll
-c:\users\марат\documents\visual studio 2010\Projects\lr1\lr1\obj\Debug\lr1.pdb

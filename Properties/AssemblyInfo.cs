@@ -2,34 +2,34 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-// Управление общими сведениями о сборке осуществляется с помощью 
-// набора атрибутов. Измените значения этих атрибутов для изменения сведений,
-// общие сведения об этой сборке.
-[assembly: AssemblyTitle("lr1")]
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+[assembly: AssemblyTitle("StudentsDB")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("lr1")]
-[assembly: AssemblyCopyright("Copyright ©  2013")]
+[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyProduct("StudentsDB")]
+[assembly: AssemblyCopyright("Copyright © Microsoft 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
-// Установка значения False в параметре ComVisible делает типы в этой сборке невидимыми 
-// для COM-компонентов.  Если необходим доступ к типу в этой сборке из 
-// COM, следует установить атрибут ComVisible в TRUE для этого типа.
+// Setting ComVisible to false makes the types in this assembly not visible 
+// to COM components.  If you need to access a type in this assembly from 
+// COM, set the ComVisible attribute to true on that type.
 [assembly: ComVisible(false)]
 
-// Указанный ниже идентификатор GUID предназначен для идентификации библиотеки типов, если этот проект будет видимым для COM-объектов
-[assembly: Guid("317e8097-a1db-44c7-ab85-ffe27d9d23a9")]
+// The following GUID is for the MyID of the typelib if this project is exposed to COM
+[assembly: Guid("529df9e8-c649-407f-971b-53c10b5be55f")]
 
-// Сведения о версии сборки состоят из указанных ниже четырех значений:
+// Version information for an assembly consists of the following four values:
 //
-//      Основной номер версии
-//      Дополнительный номер версии 
-//      Номер сборки
-//      Редакция
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
 //
-// Можно задать все значения или принять номер построения и номер редакции по умолчанию, 
-// используя "*", как показано ниже:
+// You can specify all the values or you can default the Revision and Build Numbers 
+// by using the '*' as shown below:
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
